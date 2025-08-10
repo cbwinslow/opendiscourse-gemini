@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+qdrant-client
+pypdf
+langchain
+supabase
+jose
+passlib[bcrypt]
+python-multipart
+cryptography
+pydantic-ai
+openai
+asyncpg
+graphiti-core
+
+# --- Observability ---
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+opentelemetry-instrumentation-httpx
+opentelemetry-instrumentation-asyncpg
+opentelemetry-exporter-otlp
+langfuse
